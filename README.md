@@ -1,2 +1,2 @@
-# Javascript-Practice-
+# Javascript-Journey-
 Studying Basics
